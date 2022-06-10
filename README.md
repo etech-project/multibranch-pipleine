@@ -3,9 +3,11 @@
 ### Project9:
 
 1.  Configure a shared library in github to use to build jenkins shared library jobs
+    Pending investigation 
 <br />
     
 2.  Configure a jenkins shared library on your single pipeline jenkinsfile you had
+    Pending investigation 
 <br />
 3.  why do you need shared library?
 
