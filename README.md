@@ -56,6 +56,9 @@ Source code is the text file that contains the program in some programming langu
 <br />
 12. What file do you use to configure non native services in linux?
 
+    The native services are installed using a package manager. 
+    
+    But the non-native services are defined by the operator in the /etc/systemd/system directory. example will be creating a file and then define the service name inside the file, such as: [service name]
 
 <br />
 13. What informations will use configure for your applications to communicate with its database?
