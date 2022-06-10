@@ -63,7 +63,7 @@ Source code is the text file that contains the program in some programming langu
 <br />
 13. What informations will use configure for your applications to communicate with its database?
 
-
+    Service Account - user and credentials
 
 <br />
 <br />
